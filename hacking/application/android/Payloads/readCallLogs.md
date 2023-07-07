@@ -36,8 +36,3 @@ String callLogs = callLogsReader.readLogs();
 ```
 
 The returned call logs will be in the form of a string, containing information such as the number, name, date, duration, and type of each call log entry.
-
-Please adjust the content and formatting as needed for your documentation.
-```
-
-Please adjust the content and formatting as needed for your documentation.
